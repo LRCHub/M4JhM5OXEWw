@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サマーコール",
+  "base_artist": "カラフルピーチ",
+  "createdAt": "2025-12-12T12:06:34.500219Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーコール",
+      "artist": "カラフルピーチ",
+      "has_synced": false,
+      "path": "select/pl_01_サマーコール_カラフルピーチ.txt"
+    }
+  ]
+}
